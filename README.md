@@ -1,0 +1,2 @@
+# Scala Immutability Issue
+This repository demonstrates a common pitfall in Scala programming related to understanding immutability. The example shows how seemingly immutable objects can lead to unexpected behavior if not carefully considered.  The solution showcases how to address this through functional programming principles.
